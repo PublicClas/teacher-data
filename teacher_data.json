@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Alice Johnson",
+      "image": "https://via.placeholder.com/150", 
+      "gender": "Female",
+      "position": "Professor of Mathematics",
+      "startDate": "2015-09-01",
+      "lastModified": "2024-09-30"
+    },
+    {
+      "name": "Bob Smith",
+      "image": "https://via.placeholder.com/150", 
+      "gender": "Male",
+      "position": "Associate Professor of Computer Science",
+      "startDate": "2012-01-15",
+      "lastModified": "2024-08-25"
+    },
+    {
+      "name": "Carol Lee",
+      "image": "https://via.placeholder.com/150", 
+      "gender": "Female",
+      "position": "Lecturer in Physics",
+      "startDate": "2019-03-20",
+      "lastModified": "2024-07-14"
+    },
+    {
+      "name": "David Brown",
+      "image": "https://via.placeholder.com/150", 
+      "gender": "Male",
+      "position": "Senior Lecturer in Chemistry",
+      "startDate": "2010-05-10",
+      "lastModified": "2024-09-10"
+    },
+    {
+      "name": "Eve White",
+      "image": "https://via.placeholder.com/150", 
+      "gender": "Female",
+      "position": "Assistant Professor of Biology",
+      "startDate": "2020-02-28",
+      "lastModified": "2024-09-20"
+    }
+  ]
+  
