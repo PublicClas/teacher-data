@@ -1,0 +1,25 @@
+{
+    "departments": [
+      {
+        "name": "学工部",
+        "last_operation_time": "2010-01-01 12:00:00"
+      },
+      {
+        "name": "教研部",
+        "last_operation_time": null
+      },
+      {
+        "name": "就业部",
+        "last_operation_time": "2010-01-01 12:00:00"
+      },
+      {
+        "name": "人事部",
+        "last_operation_time": "2010-01-01 12:00:00"
+      },
+      {
+        "name": "行政部",
+        "last_operation_time": "2010-01-01 12:00:00"
+      }
+    ]
+  }
+  
